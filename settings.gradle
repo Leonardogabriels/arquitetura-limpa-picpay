@@ -1,0 +1,6 @@
+rootProject.name = 'arquitetura-limpa-picpay'
+include 'core'
+include 'usecase'
+include 'infrastructure'
+include 'application'
+
