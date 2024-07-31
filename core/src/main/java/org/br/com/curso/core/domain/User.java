@@ -1,5 +1,7 @@
 package org.br.com.curso.core.domain;
 
+import org.br.com.curso.core.domain.enums.UserTypeEnum;
+
 import java.time.LocalDate;
 import java.util.UUID;
 
