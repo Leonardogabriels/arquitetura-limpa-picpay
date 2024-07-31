@@ -1,5 +1,8 @@
 package org.br.com.curso.core.domain;
 
+import org.br.com.curso.core.exception.TransactionPinException;
+import org.br.com.curso.core.exception.enums.ErrorCodeEnum;
+
 import java.time.LocalDateTime;
 
 public class TransactionPin {

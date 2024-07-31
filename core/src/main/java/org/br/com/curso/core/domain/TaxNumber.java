@@ -1,5 +1,8 @@
 package org.br.com.curso.core.domain;
 
+import org.br.com.curso.core.exception.TaxNumberException;
+import org.br.com.curso.core.exception.enums.ErrorCodeEnum;
+
 public class TaxNumber {
 	private String value;
 
